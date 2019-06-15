@@ -1,4 +1,4 @@
-https://coursehunters.net/course/react-front-to-back-2019-hooks-context-mern-i-rFirst level: The Ultimate Big Bash League Dream Team Selection Challenge
+First level: The Ultimate Big Bash League Dream Team Selection Challenge
 
 Important instructions
 
